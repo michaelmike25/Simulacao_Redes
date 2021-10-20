@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634673292 source:c:\users\mohalk\documents\codeblocks\redes1_atual\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
